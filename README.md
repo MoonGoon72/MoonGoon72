@@ -9,6 +9,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moongoon.cnu@gmail.com
 
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+</p>
 
 <div>
 <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoonGoon72&show_icons=true&theme=swift" align="center" />
