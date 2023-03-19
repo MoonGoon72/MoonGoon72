@@ -2,24 +2,19 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonGoon's%20Github!&fontSize=85" />	
 </div>
 
-- 👋 Hi, I’m @MoonGoon  
-
-- 👀 I’m interested in swift
-
-- 🌱 I’m currently learning swift
-
-- 📫 How to reach me moongoon.cnu@gmail.com
-
-
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-</div>
-<div align="center">
+	<div align="center">
 	<p>
 	  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Swift&logoColor=white"/>
+	<br>
+	  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  	  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	</p>
 </div>
+</div>
+
 
 <div align=center>
 	<p>🏆 Baekjoon solved rank 🏆</p>
