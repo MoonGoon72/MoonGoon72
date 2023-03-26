@@ -19,7 +19,6 @@
 <div align=center>
 	<p>🏆 Baekjoon solved rank 🏆</p>
 	
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=glass2300)](https://solved.ac/glass2300)
 </div>
 <div align=center>
