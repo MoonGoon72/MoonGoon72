@@ -1,7 +1,10 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonGoon's%20Github!&fontSize=85" />	
 </div>
-
+<div align=center>
+	<h3>💻Experience💻</h3>
+	부스트캠프 웹·모바일(iOS) 8기 챌린지 (2023.07.10 ~ 2023.08.04)
+</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<div align="center">
