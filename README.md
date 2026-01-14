@@ -50,24 +50,9 @@
 <hr/>
 
 <!-- Stats Grid -->
-<h3 align="center">📈 GitHub & Algorithm Stats</h3>
+<h3 align="center">📈 Algorithm Stats</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/MoonGoon72/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=MoonGoon72&show_icons=true&theme=swift" alt="GitHub stats" height="170"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonGoon72&layout=compact&hide=jupyter%20notebook&show_icons=true&theme=swift" alt="Top Languages" height="170"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
   <p>
     <a href="https://solved.ac/glass2300">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=glass2300" alt="Solved.ac Profile"/>
